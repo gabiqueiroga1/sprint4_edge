@@ -52,7 +52,7 @@ Todos os dispositivos estão conectados ao **ESP32**, que coleta os dados e os e
 
 ### Link do Wokwi
 
-- https://wokwi.com/projects/433406004443019265
+- https://wokwi.com/projects/433591284210525185
 
 
 ## Link do vídeo no Youtube explicando sobre o projeto:
