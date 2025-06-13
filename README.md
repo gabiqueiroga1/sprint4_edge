@@ -57,7 +57,7 @@ Todos os dispositivos estão conectados ao **ESP32**, que coleta os dados e os e
 
 ## Link do vídeo no Youtube explicando sobre o projeto:
 
-- Falta colocar
+- https://www.youtube.com/watch?v=nJhkSou_CQc&t=1s
 
 ---
 
